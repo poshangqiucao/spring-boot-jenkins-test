@@ -17,6 +17,6 @@ public class HelloController {
 
     @GetMapping("hello")
     public String hello() {
-        return "Hello Jenkins";
+        return "Hello World !";
     }
 }
